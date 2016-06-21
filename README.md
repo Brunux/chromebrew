@@ -1,8 +1,8 @@
-CPKG - also know as Chrome Packge Manager
+CPKG - aka Chrome Package Manager
 ==========
 
-This is an implementation of dpkg for the Chrome OS
-It is posible thanks to the awesome job by [crew](https://github.com/skycocker/chromebrew) developers
+This is an implementation of [DPKG](https://wiki.debian.org/Teams/Dpkg) for the Chrome OS
+It is posible thanks to the awesome job by [crew](https://github.com/skycocker/chromebrew/graphs/contributors) developers
 
 **Does not support ARM chipsets yet**
 
