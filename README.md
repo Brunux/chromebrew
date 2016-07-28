@@ -1,3 +1,5 @@
+Deprecated in favor of [Galliumos](https://wiki.galliumos.org/FAQ) which is awesome!
+----------
 CPKG - aka Chrome Package Manager
 ==========
 
